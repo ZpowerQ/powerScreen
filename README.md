@@ -42,5 +42,5 @@ npm run build
 =======
 # powerScreen
 可视化案例
->>>>>>> d75fd1c3f2ffe69e95c53a4ad47cb6b2ae962992
+![image](https://github.com/ZpowerQ/powerScreen/blob/main/powerScreen.png)
 
